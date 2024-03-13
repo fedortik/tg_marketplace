@@ -36,7 +36,7 @@ import seller_panel.my_orders
 
 from utils import models as db
 
-token = "6899346651:AAH8uQuHjYfRUJzOOWUNlbdNMMtq7IvPKJY"
+token = ""
 bot = Bot(token=token)
 dp = Dispatcher(storage=SQLiteStorage())
 
